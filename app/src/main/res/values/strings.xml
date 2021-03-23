@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appdevproject</string>
+    <string name="this_is_1">This is Activity 1</string>
+    <string name="go_to_2">Go To Activity 2</string>
+    <string name="this_is_2">This is Activity 2</string>
+    <string name="go_to_3">Go To Activity 3</string>
+    <string name="this_is_3">This is Activity 3</string>
+    <string name="go_to_4">Go To Activity 4</string>
+    <string name="this_is_4">This is Activity 4</string>
+    <string name="go_to_1">Go To Activity 1</string>
+</resources>
